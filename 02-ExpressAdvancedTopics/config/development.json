@@ -1,0 +1,6 @@
+{
+    "name": "ExpressAdvaneTopics-Development",
+    "mail": {
+        "host": "development-mail-server"
+    }
+}

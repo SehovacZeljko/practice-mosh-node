@@ -1,0 +1,6 @@
+{
+    "name": "ExpressAdvaneTopics-Production",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}
