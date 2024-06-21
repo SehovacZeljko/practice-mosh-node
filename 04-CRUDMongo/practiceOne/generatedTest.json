@@ -1,0 +1,162 @@
+[
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c1b"
+        },
+        "name": "Vue.js Mastery",
+        "author": "Ana",
+        "tags": [
+            "Vue",
+            "Frontend"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-12T22:20:33.665Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c1c"
+        },
+        "name": "Advanced Node.js",
+        "author": "Ben",
+        "tags": [
+            "Node.js",
+            "Backend"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-11T19:15:20.123Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c1d"
+        },
+        "name": "Python for Data Science",
+        "author": "Chris",
+        "tags": [
+            "Python",
+            "Data Science"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-10T18:10:10.987Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c1e"
+        },
+        "name": "Machine Learning Basics",
+        "author": "Dana",
+        "tags": [
+            "Machine Learning",
+            "AI"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-09T17:05:05.456Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c1f"
+        },
+        "name": "Java Fundamentals",
+        "author": "Eli",
+        "tags": [
+            "Java",
+            "Backend"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-08T16:00:00.789Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c20"
+        },
+        "name": "C# for Beginners",
+        "author": "Fiona",
+        "tags": [
+            "C#",
+            "Backend"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-07T15:55:55.321Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c21"
+        },
+        "name": "Full Stack with MERN",
+        "author": "George",
+        "tags": [
+            "Full Stack",
+            "MERN"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-06T14:50:50.654Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c22"
+        },
+        "name": "DevOps Essentials",
+        "author": "Hannah",
+        "tags": [
+            "DevOps",
+            "CI/CD"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-05T13:45:45.123Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c23"
+        },
+        "name": "Cybersecurity Basics",
+        "author": "Ian",
+        "tags": [
+            "Cybersecurity",
+            "Security"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-04T12:40:40.456Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60d5ec49ed1a4e6d5e4a4c24"
+        },
+        "name": "Cloud Computing with AWS",
+        "author": "Jane",
+        "tags": [
+            "Cloud",
+            "AWS"
+        ],
+        "isPublished": true,
+        "date": {
+            "$date": "2024-06-03T11:35:35.789Z"
+        },
+        "__v": 0
+    }
+]
